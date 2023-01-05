@@ -1,0 +1,2 @@
+# VoidwareGConfig
+Voidware Ghost Edition
